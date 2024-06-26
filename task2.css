@@ -1,0 +1,19 @@
+.parent{
+    position: relative;
+    top: 200px;
+    left: 50px;
+    height: 200px;
+    padding-top: 100px;
+    text-align: center;
+    width:300px;
+    background-color: blue;
+}
+.child{
+    position: absolute;
+    bottom:250px;
+    left:240px;
+    width:150px;
+    height: 100px;
+    padding-top: 30px;
+    background-color: red;
+}
